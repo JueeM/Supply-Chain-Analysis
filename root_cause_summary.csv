@@ -1,0 +1,7 @@
+hypothesis,result,p_value
+Demand seasonality,Ruled out,
+Supplier concentration,Ruled out,
+Lead time,Ruled out,0.017
+Promotions,Ruled out,
+Weekend/holiday,Ruled out,
+Safety stock buffer,Supported,0.045

@@ -1,0 +1,5 @@
+metric,value,unit
+EOQ,2248.0,units
+Reorder Point,835.0,units
+Safety Stock (data-driven),24.0,units
+Avg Lead Time,6.6,days
